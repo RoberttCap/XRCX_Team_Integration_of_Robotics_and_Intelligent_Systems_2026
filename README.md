@@ -14,8 +14,9 @@ Repositorio para evidenciar los minichallenges a lo largo del semestre
 
 # How to stop your robot before quitting 
 ''
-  import signal  
-  import sys 
+
+   import signal  
+   import sys 
 
 
  
