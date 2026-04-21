@@ -13,13 +13,12 @@ Repositorio para evidenciar los minichallenges a lo largo del semestre
 
 
 # How to stop your robot before quitting 
-''
+Imports:
 
    import signal  
    import sys 
-
-
  
+Function:
 
     def shutdown_function(self, signum, frame): 
         # Handle shutdown gracefully 
@@ -30,4 +29,4 @@ Repositorio para evidenciar los minichallenges a lo largo del semestre
         self.pub_cmd_vel.publish(stop_twist) # publish it to stop the robot before shutting down 
         rclpy.shutdown() # Shutdown the node 
         sys.exit(0) # Exit the program 
-''
+
