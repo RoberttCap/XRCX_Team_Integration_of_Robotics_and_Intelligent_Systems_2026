@@ -1,0 +1,39 @@
+[0.849s] Invoking command in '/home/karinam/ros2_ws/src/puzzlebot_sim': PYTHONPATH=/tmp/pb_build/puzzlebot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../tmp/pb_build/puzzlebot_sim build --build-base /tmp/pb_build/puzzlebot_sim/build install --record /tmp/pb_build/puzzlebot_sim/install.log --single-version-externally-managed install_data
+[1.168s] running egg_info
+[1.192s] writing ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/PKG-INFO
+[1.193s] writing dependency_links to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/dependency_links.txt
+[1.193s] writing entry points to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/entry_points.txt
+[1.193s] writing requirements to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/requires.txt
+[1.193s] writing top-level names to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/top_level.txt
+[1.243s] reading manifest file '../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'
+[1.244s] writing manifest file '../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'
+[1.245s] running build
+[1.245s] running build_py
+[1.245s] copying puzzlebot_sim/localisation.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+[1.245s] copying puzzlebot_sim/__init__.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+[1.245s] copying puzzlebot_sim/puzzlebot_sim.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+[1.245s] copying puzzlebot_sim/control.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+[1.245s] copying puzzlebot_sim/transforms.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+[1.246s] running install
+[1.253s] running install_lib
+[1.278s] running install_data
+[1.279s] copying package.xml -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim
+[1.279s] copying launch/part1.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+[1.279s] copying launch/part2.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+[1.279s] copying launch/part3.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+[1.280s] copying launch/puzzlebot_sim.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+[1.280s] copying rviz/puzzlebot_rviz.rviz -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/rviz
+[1.280s] copying meshes/Puzzlebot_Jetson_Lidar_Edition_Base(1).stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes
+[1.281s] copying meshes/Puzzlebot_Caster_Wheel.stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes
+[1.281s] copying meshes/Puzzlebot_Wheel.stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes
+[1.281s] copying urdf/puzzlebot.urdf -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/urdf
+[1.281s] running install_egg_info
+[1.306s] removing '/tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[1.306s] Copying ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info to /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info
+[1.307s] running install_scripts
+[1.361s] Installing control script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+[1.362s] Installing localisation script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+[1.362s] Installing puzzlebot_sim script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+[1.362s] Installing puzzlebot_transforms script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+[1.362s] writing list of installed files to '/tmp/pb_build/puzzlebot_sim/install.log'
+[1.398s] Invoked command in '/home/karinam/ros2_ws/src/puzzlebot_sim' returned '0': PYTHONPATH=/tmp/pb_build/puzzlebot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../tmp/pb_build/puzzlebot_sim build --build-base /tmp/pb_build/puzzlebot_sim/build install --record /tmp/pb_build/puzzlebot_sim/install.log --single-version-externally-managed install_data

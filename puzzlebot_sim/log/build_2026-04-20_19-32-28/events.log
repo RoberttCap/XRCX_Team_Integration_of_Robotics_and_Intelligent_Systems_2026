@@ -1,0 +1,352 @@
+[0.000000] (-) TimerEvent: {}
+[0.000124] (puzzlebot_sim) JobQueued: {'identifier': 'puzzlebot_sim', 'dependencies': OrderedDict()}
+[0.000783] (puzzlebot_sim) JobStarted: {'identifier': 'puzzlebot_sim'}
+[0.099590] (-) TimerEvent: {}
+[0.199787] (-) TimerEvent: {}
+[0.300002] (-) TimerEvent: {}
+[0.400195] (-) TimerEvent: {}
+[0.500366] (-) TimerEvent: {}
+[0.600543] (-) TimerEvent: {}
+[0.700702] (-) TimerEvent: {}
+[0.800864] (-) TimerEvent: {}
+[0.901058] (-) TimerEvent: {}
+[1.001223] (-) TimerEvent: {}
+[1.101386] (-) TimerEvent: {}
+[1.201528] (-) TimerEvent: {}
+[1.301685] (-) TimerEvent: {}
+[1.401839] (-) TimerEvent: {}
+[1.502009] (-) TimerEvent: {}
+[1.602184] (-) TimerEvent: {}
+[1.702367] (-) TimerEvent: {}
+[1.802601] (-) TimerEvent: {}
+[1.902788] (-) TimerEvent: {}
+[2.002970] (-) TimerEvent: {}
+[2.103126] (-) TimerEvent: {}
+[2.203302] (-) TimerEvent: {}
+[2.303490] (-) TimerEvent: {}
+[2.403656] (-) TimerEvent: {}
+[2.503833] (-) TimerEvent: {}
+[2.603970] (-) TimerEvent: {}
+[2.704176] (-) TimerEvent: {}
+[2.804399] (-) TimerEvent: {}
+[2.904605] (-) TimerEvent: {}
+[3.004790] (-) TimerEvent: {}
+[3.104983] (-) TimerEvent: {}
+[3.205139] (-) TimerEvent: {}
+[3.305324] (-) TimerEvent: {}
+[3.405502] (-) TimerEvent: {}
+[3.505684] (-) TimerEvent: {}
+[3.605852] (-) TimerEvent: {}
+[3.705979] (-) TimerEvent: {}
+[3.806146] (-) TimerEvent: {}
+[3.906368] (-) TimerEvent: {}
+[4.006557] (-) TimerEvent: {}
+[4.106754] (-) TimerEvent: {}
+[4.207010] (-) TimerEvent: {}
+[4.307240] (-) TimerEvent: {}
+[4.407414] (-) TimerEvent: {}
+[4.507621] (-) TimerEvent: {}
+[4.607784] (-) TimerEvent: {}
+[4.707991] (-) TimerEvent: {}
+[4.808209] (-) TimerEvent: {}
+[4.908385] (-) TimerEvent: {}
+[5.008567] (-) TimerEvent: {}
+[5.108729] (-) TimerEvent: {}
+[5.208913] (-) TimerEvent: {}
+[5.309152] (-) TimerEvent: {}
+[5.409335] (-) TimerEvent: {}
+[5.509527] (-) TimerEvent: {}
+[5.609760] (-) TimerEvent: {}
+[5.709946] (-) TimerEvent: {}
+[5.810130] (-) TimerEvent: {}
+[5.910314] (-) TimerEvent: {}
+[6.010486] (-) TimerEvent: {}
+[6.110666] (-) TimerEvent: {}
+[6.210852] (-) TimerEvent: {}
+[6.311018] (-) TimerEvent: {}
+[6.411221] (-) TimerEvent: {}
+[6.511409] (-) TimerEvent: {}
+[6.611613] (-) TimerEvent: {}
+[6.711836] (-) TimerEvent: {}
+[6.812014] (-) TimerEvent: {}
+[6.912230] (-) TimerEvent: {}
+[7.012414] (-) TimerEvent: {}
+[7.112610] (-) TimerEvent: {}
+[7.212815] (-) TimerEvent: {}
+[7.312980] (-) TimerEvent: {}
+[7.413173] (-) TimerEvent: {}
+[7.513360] (-) TimerEvent: {}
+[7.613540] (-) TimerEvent: {}
+[7.713710] (-) TimerEvent: {}
+[7.813858] (-) TimerEvent: {}
+[7.914046] (-) TimerEvent: {}
+[8.014215] (-) TimerEvent: {}
+[8.114423] (-) TimerEvent: {}
+[8.214610] (-) TimerEvent: {}
+[8.314773] (-) TimerEvent: {}
+[8.414952] (-) TimerEvent: {}
+[8.515105] (-) TimerEvent: {}
+[8.615254] (-) TimerEvent: {}
+[8.715441] (-) TimerEvent: {}
+[8.815629] (-) TimerEvent: {}
+[8.915828] (-) TimerEvent: {}
+[9.016018] (-) TimerEvent: {}
+[9.116211] (-) TimerEvent: {}
+[9.216444] (-) TimerEvent: {}
+[9.316686] (-) TimerEvent: {}
+[9.416850] (-) TimerEvent: {}
+[9.517066] (-) TimerEvent: {}
+[9.617217] (-) TimerEvent: {}
+[9.717446] (-) TimerEvent: {}
+[9.817613] (-) TimerEvent: {}
+[9.917830] (-) TimerEvent: {}
+[10.018045] (-) TimerEvent: {}
+[10.118224] (-) TimerEvent: {}
+[10.218381] (-) TimerEvent: {}
+[10.318596] (-) TimerEvent: {}
+[10.418785] (-) TimerEvent: {}
+[10.518969] (-) TimerEvent: {}
+[10.619138] (-) TimerEvent: {}
+[10.719308] (-) TimerEvent: {}
+[10.819524] (-) TimerEvent: {}
+[10.922117] (-) TimerEvent: {}
+[11.022325] (-) TimerEvent: {}
+[11.122499] (-) TimerEvent: {}
+[11.222681] (-) TimerEvent: {}
+[11.322842] (-) TimerEvent: {}
+[11.423020] (-) TimerEvent: {}
+[11.523207] (-) TimerEvent: {}
+[11.623392] (-) TimerEvent: {}
+[11.723577] (-) TimerEvent: {}
+[11.823758] (-) TimerEvent: {}
+[11.923972] (-) TimerEvent: {}
+[12.024150] (-) TimerEvent: {}
+[12.124317] (-) TimerEvent: {}
+[12.224494] (-) TimerEvent: {}
+[12.324680] (-) TimerEvent: {}
+[12.424902] (-) TimerEvent: {}
+[12.525167] (-) TimerEvent: {}
+[12.625412] (-) TimerEvent: {}
+[12.725613] (-) TimerEvent: {}
+[12.825838] (-) TimerEvent: {}
+[12.926083] (-) TimerEvent: {}
+[13.026239] (-) TimerEvent: {}
+[13.126435] (-) TimerEvent: {}
+[13.226696] (-) TimerEvent: {}
+[13.328104] (-) TimerEvent: {}
+[13.428288] (-) TimerEvent: {}
+[13.528481] (-) TimerEvent: {}
+[13.628656] (-) TimerEvent: {}
+[13.728961] (-) TimerEvent: {}
+[13.829153] (-) TimerEvent: {}
+[13.929332] (-) TimerEvent: {}
+[14.029532] (-) TimerEvent: {}
+[14.129726] (-) TimerEvent: {}
+[14.229879] (-) TimerEvent: {}
+[14.330070] (-) TimerEvent: {}
+[14.430300] (-) TimerEvent: {}
+[14.530502] (-) TimerEvent: {}
+[14.630706] (-) TimerEvent: {}
+[14.730948] (-) TimerEvent: {}
+[14.831144] (-) TimerEvent: {}
+[14.931342] (-) TimerEvent: {}
+[15.031494] (-) TimerEvent: {}
+[15.131673] (-) TimerEvent: {}
+[15.231946] (-) TimerEvent: {}
+[15.332180] (-) TimerEvent: {}
+[15.432346] (-) TimerEvent: {}
+[15.532512] (-) TimerEvent: {}
+[15.632799] (-) TimerEvent: {}
+[15.732969] (-) TimerEvent: {}
+[15.833206] (-) TimerEvent: {}
+[15.933397] (-) TimerEvent: {}
+[16.033612] (-) TimerEvent: {}
+[16.133809] (-) TimerEvent: {}
+[16.234003] (-) TimerEvent: {}
+[16.334184] (-) TimerEvent: {}
+[16.434386] (-) TimerEvent: {}
+[16.534542] (-) TimerEvent: {}
+[16.634702] (-) TimerEvent: {}
+[16.734891] (-) TimerEvent: {}
+[16.835140] (-) TimerEvent: {}
+[16.935376] (-) TimerEvent: {}
+[17.035568] (-) TimerEvent: {}
+[17.135728] (-) TimerEvent: {}
+[17.235912] (-) TimerEvent: {}
+[17.336108] (-) TimerEvent: {}
+[17.436379] (-) TimerEvent: {}
+[17.536593] (-) TimerEvent: {}
+[17.636796] (-) TimerEvent: {}
+[17.736996] (-) TimerEvent: {}
+[17.837233] (-) TimerEvent: {}
+[17.937517] (-) TimerEvent: {}
+[18.037693] (-) TimerEvent: {}
+[18.138229] (-) TimerEvent: {}
+[18.238422] (-) TimerEvent: {}
+[18.338620] (-) TimerEvent: {}
+[18.438775] (-) TimerEvent: {}
+[18.538981] (-) TimerEvent: {}
+[18.639172] (-) TimerEvent: {}
+[18.739336] (-) TimerEvent: {}
+[18.839508] (-) TimerEvent: {}
+[18.939668] (-) TimerEvent: {}
+[19.039845] (-) TimerEvent: {}
+[19.140028] (-) TimerEvent: {}
+[19.240242] (-) TimerEvent: {}
+[19.340455] (-) TimerEvent: {}
+[19.440637] (-) TimerEvent: {}
+[19.540823] (-) TimerEvent: {}
+[19.640990] (-) TimerEvent: {}
+[19.741178] (-) TimerEvent: {}
+[19.841398] (-) TimerEvent: {}
+[19.941579] (-) TimerEvent: {}
+[20.041743] (-) TimerEvent: {}
+[20.141910] (-) TimerEvent: {}
+[20.242091] (-) TimerEvent: {}
+[20.342318] (-) TimerEvent: {}
+[20.442533] (-) TimerEvent: {}
+[20.542726] (-) TimerEvent: {}
+[20.642940] (-) TimerEvent: {}
+[20.743100] (-) TimerEvent: {}
+[20.843288] (-) TimerEvent: {}
+[20.943462] (-) TimerEvent: {}
+[21.043655] (-) TimerEvent: {}
+[21.143847] (-) TimerEvent: {}
+[21.243995] (-) TimerEvent: {}
+[21.344210] (-) TimerEvent: {}
+[21.444415] (-) TimerEvent: {}
+[21.544590] (-) TimerEvent: {}
+[21.644804] (-) TimerEvent: {}
+[21.744992] (-) TimerEvent: {}
+[21.845240] (-) TimerEvent: {}
+[21.945482] (-) TimerEvent: {}
+[22.045700] (-) TimerEvent: {}
+[22.145936] (-) TimerEvent: {}
+[22.246165] (-) TimerEvent: {}
+[22.346332] (-) TimerEvent: {}
+[22.446489] (-) TimerEvent: {}
+[22.546684] (-) TimerEvent: {}
+[22.646856] (-) TimerEvent: {}
+[22.747092] (-) TimerEvent: {}
+[22.847250] (-) TimerEvent: {}
+[22.947406] (-) TimerEvent: {}
+[23.047561] (-) TimerEvent: {}
+[23.147743] (-) TimerEvent: {}
+[23.247974] (-) TimerEvent: {}
+[23.348200] (-) TimerEvent: {}
+[23.448413] (-) TimerEvent: {}
+[23.548628] (-) TimerEvent: {}
+[23.648873] (-) TimerEvent: {}
+[23.749133] (-) TimerEvent: {}
+[23.849349] (-) TimerEvent: {}
+[23.949502] (-) TimerEvent: {}
+[24.049698] (-) TimerEvent: {}
+[24.149881] (-) TimerEvent: {}
+[24.250057] (-) TimerEvent: {}
+[24.350226] (-) TimerEvent: {}
+[24.450451] (-) TimerEvent: {}
+[24.550609] (-) TimerEvent: {}
+[24.650794] (-) TimerEvent: {}
+[24.750966] (-) TimerEvent: {}
+[24.851127] (-) TimerEvent: {}
+[24.951327] (-) TimerEvent: {}
+[25.051496] (-) TimerEvent: {}
+[25.152985] (-) TimerEvent: {}
+[25.253206] (-) TimerEvent: {}
+[25.353398] (-) TimerEvent: {}
+[25.453565] (-) TimerEvent: {}
+[25.553726] (-) TimerEvent: {}
+[25.653908] (-) TimerEvent: {}
+[25.754125] (-) TimerEvent: {}
+[25.854286] (-) TimerEvent: {}
+[25.954443] (-) TimerEvent: {}
+[26.054612] (-) TimerEvent: {}
+[26.154809] (-) TimerEvent: {}
+[26.254993] (-) TimerEvent: {}
+[26.355194] (-) TimerEvent: {}
+[26.455383] (-) TimerEvent: {}
+[26.555571] (-) TimerEvent: {}
+[26.655811] (-) TimerEvent: {}
+[26.756056] (-) TimerEvent: {}
+[26.856266] (-) TimerEvent: {}
+[26.956457] (-) TimerEvent: {}
+[27.056661] (-) TimerEvent: {}
+[27.156820] (-) TimerEvent: {}
+[27.256997] (-) TimerEvent: {}
+[27.357206] (-) TimerEvent: {}
+[27.457373] (-) TimerEvent: {}
+[27.557594] (-) TimerEvent: {}
+[27.904695] (-) TimerEvent: {}
+[28.004892] (-) TimerEvent: {}
+[28.105072] (-) TimerEvent: {}
+[28.205226] (-) TimerEvent: {}
+[28.305379] (-) TimerEvent: {}
+[28.405549] (-) TimerEvent: {}
+[28.505713] (-) TimerEvent: {}
+[28.605877] (-) TimerEvent: {}
+[28.706127] (-) TimerEvent: {}
+[28.806290] (-) TimerEvent: {}
+[28.906462] (-) TimerEvent: {}
+[29.006689] (-) TimerEvent: {}
+[29.106859] (-) TimerEvent: {}
+[29.207055] (-) TimerEvent: {}
+[29.307229] (-) TimerEvent: {}
+[29.407384] (-) TimerEvent: {}
+[29.507562] (-) TimerEvent: {}
+[29.607766] (-) TimerEvent: {}
+[29.707909] (-) TimerEvent: {}
+[29.808094] (-) TimerEvent: {}
+[29.908266] (-) TimerEvent: {}
+[30.008414] (-) TimerEvent: {}
+[30.031707] (puzzlebot_sim) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../../../../tmp/pb_build/puzzlebot_sim', 'build', '--build-base', '/tmp/pb_build/puzzlebot_sim/build', 'install', '--record', '/tmp/pb_build/puzzlebot_sim/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/karinam/ros2_ws/src/puzzlebot_sim', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'VSCODE_CWD': '/home/karinam', 'VSCODE_ESM_ENTRYPOINT': 'vs/workbench/api/node/extensionHostProcess', 'CODEX_CI': '1', 'USER': 'karinam', 'SNAP_COMMON': '/var/snap/code/common', 'LC_TIME': 'es_MX.UTF-8', 'CODEX_INTERNAL_ORIGINATOR_OVERRIDE': 'codex_vscode', 'VSCODE_NLS_CONFIG': '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/snap/code/234/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}', 'FONTCONFIG_PATH': '/etc/fonts', 'GIO_MODULE_DIR': '/home/karinam/snap/code/common/.cache/gio-modules', 'VSCODE_HANDLES_UNCAUGHT_ERRORS': 'true', 'XDG_SESSION_TYPE': 'wayland', 'DEBUG': 'release', 'SNAP_UID': '1000', 'SHLVL': '0', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/karinam', 'CHROME_DESKTOP': 'code.desktop', 'SNAP_LIBRARY_PATH': '/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32', 'DESKTOP_SESSION': 'ubuntu', 'SNAP_USER_DATA': '/home/karinam/snap/code/234', 'GTK_PATH': '/snap/code/234/usr/lib/x86_64-linux-gnu/gtk-3.0', 'VSCODE_IPC_HOOK': '/run/user/1000/vscode-a1da3c0a-1.11-main.sock', 'GTK_IM_MODULE_FILE': '/home/karinam/snap/code/common/.cache/immodules/immodules.cache', 'GIO_LAUNCHED_DESKTOP_FILE': '/var/lib/snapd/desktop/applications/code_code.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'PAGER': 'cat', 'LC_MONETARY': 'es_MX.UTF-8', 'MANAGERPID': '1640', 'LC_CTYPE': 'C.UTF-8', 'SYSTEMD_EXEC_PID': '1819', 'IM_CONFIG_CHECK_ENV': '1', 'NO_COLOR': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'SNAP_REVISION': '234', 'COLORTERM': '', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '139763', 'VSCODE_CRASH_REPORTER_PROCESS_TYPE': 'extensionHost', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/karinam/uros_ws/install:/home/karinam/ros2_ws/install:/tmp/puzzlebot_sim_install', 'APPLICATION_INSIGHTS_NO_STATSBEAT': 'true', 'ROS_DISTRO': 'humble', 'LOGNAME': 'karinam', 'SNAP_CONTEXT': 'Iluyzx5EjJTI9Azbfp-ZB6EUy4gibltiqcTD7ZIDQSEQcrLaxIFb', 'JOURNAL_STREAM': '8:16066', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_SESSION_CLASS': 'user', 'SNAP_VERSION': '560a9dba', 'XDG_DATA_DIRS_VSCODE_SNAP_ORIG': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'RUST_LOG': 'warn', 'USERNAME': 'karinam', 'TERM': 'dumb', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'SNAP_INSTANCE_NAME': 'code', 'FC_FONTATIONS': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/karinam/.local/bin:/home/karinam/.codex/tmp/arg0/codex-arg0eS44nz:/home/karinam/.local/bin:/opt/ros/humble/bin:/home/karinam/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/karinam/.vscode/extensions/openai.chatgpt-26.5417.40842-linux-x64/bin/linux-x86_64', 'SESSION_MANAGER': 'local/lunaPC:@/tmp/.ICE-unix/1781,unix/lunaPC:/tmp/.ICE-unix/1781', 'GTK_EXE_PREFIX': '/snap/code/234/usr', 'INVOCATION_ID': '1af0af2227e14b6391ceb619304a1cce', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'es_MX.UTF-8', 'GNOME_SETUP_DISPLAY': ':1', 'SNAP_DATA': '/var/snap/code/234', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'x11', 'DISPLAY': ':0', 'LOCPATH': '/snap/code/234/usr/lib/locale', 'CODEX_SANDBOX_NETWORK_DISABLED': '1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'es_MX.UTF-8', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'XDG_DATA_HOME': '/home/karinam/snap/code/234/.local/share', 'XMODIFIERS': '@im=ibus', 'GH_PAGER': 'cat', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.P3I5N3', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SNAP_USER_COMMON': '/home/karinam/snap/code/common', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'GSETTINGS_SCHEMA_DIR': '/home/karinam/snap/code/234/.local/share/glib-2.0/schemas', 'ROS_DOMAIN_ID': '126', 'SNAP_ARCH': 'amd64', 'AMENT_PREFIX_PATH': '/home/karinam/ros2_ws/install/puzzlebot_sim:/home/karinam/ros2_ws/install/mobile_robotics:/home/karinam/uros_ws/install/micro_ros_setup:/tmp/puzzlebot_sim_install/puzzlebot_sim:/opt/ros/humble', 'SNAP_COOKIE': 'Iluyzx5EjJTI9Azbfp-ZB6EUy4gibltiqcTD7ZIDQSEQcrLaxIFb', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'GDK_PIXBUF_MODULEDIR': '/snap/code/234/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders', 'QT_ACCESSIBILITY': '1', 'ELECTRON_RUN_AS_NODE': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'FONTCONFIG_FILE': '/etc/fonts/fonts.conf', 'SNAP_NAME': 'code', 'CODEX_THREAD_ID': '019dad73-133e-7de2-a2c6-26cf04b05859', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'GDK_PIXBUF_MODULE_FILE': '/home/karinam/snap/code/common/.cache/gdk-pixbuf-loaders.cache', 'GJS_DEBUG_OUTPUT': 'stderr', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'SNAP_LAUNCHER_ARCH_TRIPLET': 'x86_64-linux-gnu', 'GIT_PAGER': 'cat', 'QT_IM_MODULE': 'ibus', 'PWD': '/tmp/pb_build/puzzlebot_sim', 'VSCODE_CLI': '1', 'TURTLEBOT3_MODEL': 'waffle', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'SNAP_REAL_HOME': '/home/karinam', 'VSCODE_CODE_CACHE_PATH': '/home/karinam/.config/Code/CachedData/560a9dba96f961efea7b1612916f89e5d5d4d679', 'XDG_DATA_DIRS': '/home/karinam/snap/code/234/.local/share:/home/karinam/snap/code/234:/snap/code/234/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'SNAP_EUID': '1000', 'PYTHONPATH': '/tmp/pb_build/puzzlebot_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages:/home/karinam/ros2_ws/install/puzzlebot_sim/lib/python3.10/site-packages:/home/karinam/ros2_ws/install/mobile_robotics/lib/python3.10/site-packages:/tmp/puzzlebot_sim_install/puzzlebot_sim/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'SNAP': '/snap/code/234', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'ELECTRON_NO_ATTACH_CONSOLE': '1', 'CMAKE_PREFIX_PATH': '/home/karinam/uros_ws/install/micro_ros_setup', 'VSCODE_PID': '139825'}, 'shell': False}
+[30.108508] (-) TimerEvent: {}
+[30.208686] (-) TimerEvent: {}
+[30.308898] (-) TimerEvent: {}
+[30.409117] (-) TimerEvent: {}
+[30.482132] (puzzlebot_sim) StdoutLine: {'line': b'running egg_info\n'}
+[30.509225] (-) TimerEvent: {}
+[30.514704] (puzzlebot_sim) StdoutLine: {'line': b'writing ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/PKG-INFO\n'}
+[30.515569] (puzzlebot_sim) StdoutLine: {'line': b'writing dependency_links to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/dependency_links.txt\n'}
+[30.515872] (puzzlebot_sim) StdoutLine: {'line': b'writing entry points to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/entry_points.txt\n'}
+[30.516232] (puzzlebot_sim) StdoutLine: {'line': b'writing requirements to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/requires.txt\n'}
+[30.516469] (puzzlebot_sim) StdoutLine: {'line': b'writing top-level names to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/top_level.txt\n'}
+[30.584654] (puzzlebot_sim) StdoutLine: {'line': b"reading manifest file '../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'\n"}
+[30.587088] (puzzlebot_sim) StdoutLine: {'line': b"writing manifest file '../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'\n"}
+[30.587557] (puzzlebot_sim) StdoutLine: {'line': b'running build\n'}
+[30.587651] (puzzlebot_sim) StdoutLine: {'line': b'running build_py\n'}
+[30.587870] (puzzlebot_sim) StdoutLine: {'line': b'copying puzzlebot_sim/localisation.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim\n'}
+[30.588194] (puzzlebot_sim) StdoutLine: {'line': b'copying puzzlebot_sim/__init__.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim\n'}
+[30.588438] (puzzlebot_sim) StdoutLine: {'line': b'copying puzzlebot_sim/puzzlebot_sim.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim\n'}
+[30.588697] (puzzlebot_sim) StdoutLine: {'line': b'copying puzzlebot_sim/control.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim\n'}
+[30.588960] (puzzlebot_sim) StdoutLine: {'line': b'copying puzzlebot_sim/transforms.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim\n'}
+[30.589465] (puzzlebot_sim) StdoutLine: {'line': b'running install\n'}
+[30.596433] (puzzlebot_sim) StdoutLine: {'line': b'running install_lib\n'}
+[30.609309] (-) TimerEvent: {}
+[30.627320] (puzzlebot_sim) StdoutLine: {'line': b'copying /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim/localisation.py -> /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim\n'}
+[30.628353] (puzzlebot_sim) StdoutLine: {'line': b'byte-compiling /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim/localisation.py to localisation.cpython-310.pyc\n'}
+[30.629683] (puzzlebot_sim) StdoutLine: {'line': b'running install_data\n'}
+[30.630182] (puzzlebot_sim) StdoutLine: {'line': b'copying package.xml -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim\n'}
+[30.630481] (puzzlebot_sim) StdoutLine: {'line': b'copying launch/part1.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch\n'}
+[30.630748] (puzzlebot_sim) StdoutLine: {'line': b'copying launch/part2.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch\n'}
+[30.631006] (puzzlebot_sim) StdoutLine: {'line': b'copying launch/part3.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch\n'}
+[30.631265] (puzzlebot_sim) StdoutLine: {'line': b'copying launch/puzzlebot_sim.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch\n'}
+[30.631676] (puzzlebot_sim) StdoutLine: {'line': b'copying rviz/puzzlebot_rviz.rviz -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/rviz\n'}
+[30.631977] (puzzlebot_sim) StdoutLine: {'line': b'copying meshes/Puzzlebot_Jetson_Lidar_Edition_Base(1).stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes\n'}
+[30.632419] (puzzlebot_sim) StdoutLine: {'line': b'copying meshes/Puzzlebot_Caster_Wheel.stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes\n'}
+[30.632678] (puzzlebot_sim) StdoutLine: {'line': b'copying meshes/Puzzlebot_Wheel.stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes\n'}
+[30.633136] (puzzlebot_sim) StdoutLine: {'line': b'copying urdf/puzzlebot.urdf -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/urdf\n'}
+[30.633450] (puzzlebot_sim) StdoutLine: {'line': b'running install_egg_info\n'}
+[30.665859] (puzzlebot_sim) StdoutLine: {'line': b"removing '/tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[30.666179] (puzzlebot_sim) StdoutLine: {'line': b'Copying ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info to /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info\n'}
+[30.667236] (puzzlebot_sim) StdoutLine: {'line': b'running install_scripts\n'}
+[30.709408] (-) TimerEvent: {}
+[30.732483] (puzzlebot_sim) StdoutLine: {'line': b'Installing control script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim\n'}
+[30.732904] (puzzlebot_sim) StdoutLine: {'line': b'Installing localisation script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim\n'}
+[30.733413] (puzzlebot_sim) StdoutLine: {'line': b'Installing puzzlebot_sim script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim\n'}
+[30.733606] (puzzlebot_sim) StdoutLine: {'line': b'Installing puzzlebot_transforms script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim\n'}
+[30.734192] (puzzlebot_sim) StdoutLine: {'line': b"writing list of installed files to '/tmp/pb_build/puzzlebot_sim/install.log'\n"}
+[30.767818] (puzzlebot_sim) CommandEnded: {'returncode': 0}
+[30.809529] (-) TimerEvent: {}
+[30.909757] (-) TimerEvent: {}
+[30.947877] (puzzlebot_sim) JobEnded: {'identifier': 'puzzlebot_sim', 'rc': 0}
+[30.948670] (-) EventReactorShutdown: {}

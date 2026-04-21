@@ -1,0 +1,39 @@
+running egg_info
+writing ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/PKG-INFO
+writing dependency_links to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/dependency_links.txt
+writing entry points to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/entry_points.txt
+writing requirements to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/requires.txt
+writing top-level names to ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/top_level.txt
+reading manifest file '../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'
+writing manifest file '../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+copying puzzlebot_sim/localisation.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+copying puzzlebot_sim/__init__.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+copying puzzlebot_sim/puzzlebot_sim.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+copying puzzlebot_sim/control.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+copying puzzlebot_sim/transforms.py -> /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim
+running install
+running install_lib
+copying /tmp/pb_build/puzzlebot_sim/build/lib/puzzlebot_sim/localisation.py -> /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim
+byte-compiling /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim/localisation.py to localisation.cpython-310.pyc
+running install_data
+copying package.xml -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim
+copying launch/part1.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+copying launch/part2.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+copying launch/part3.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+copying launch/puzzlebot_sim.launch.py -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/launch
+copying rviz/puzzlebot_rviz.rviz -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/rviz
+copying meshes/Puzzlebot_Jetson_Lidar_Edition_Base(1).stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes
+copying meshes/Puzzlebot_Caster_Wheel.stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes
+copying meshes/Puzzlebot_Wheel.stl -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/meshes
+copying urdf/puzzlebot.urdf -> /tmp/pb_install/puzzlebot_sim/share/puzzlebot_sim/urdf
+running install_egg_info
+removing '/tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../../../tmp/pb_build/puzzlebot_sim/puzzlebot_sim.egg-info to /tmp/pb_install/puzzlebot_sim/lib/python3.10/site-packages/puzzlebot_sim-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+Installing localisation script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+Installing puzzlebot_sim script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+Installing puzzlebot_transforms script to /tmp/pb_install/puzzlebot_sim/lib/puzzlebot_sim
+writing list of installed files to '/tmp/pb_build/puzzlebot_sim/install.log'
