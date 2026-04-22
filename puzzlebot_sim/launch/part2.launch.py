@@ -6,7 +6,7 @@ from launch_ros.actions import Node
 
 
 def generate_launch_description():
-    """Launch Part 2 with dead reckoning, RViz, and RQT tools."""
+    """Launch Part 2 with simulated pose TF, RViz, and RQT tools."""
     puzzlebot_sim_dir = get_package_share_directory('puzzlebot_sim')
 
     urdf_file = os.path.join(puzzlebot_sim_dir, 'urdf', 'puzzlebot.urdf')
@@ -34,12 +34,6 @@ def generate_launch_description():
             package='puzzlebot_sim',
             executable='puzzlebot_sim',
             name='puzzlebot_sim',
-            output='screen',
-        ),
-        Node(
-            package='puzzlebot_sim',
-            executable='localisation',
-            name='localisation',
             output='screen',
         ),
         Node(
