@@ -13,20 +13,16 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='sofiabl',
-    maintainer_email='sofiabl@todo.todo',
+    maintainer='karinam',
+    maintainer_email='karifer16.26@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
-    extras_require={
-        'test': [
-            'pytest',
-        ],
-    },
     entry_points={
         'console_scripts': [
             'test_node = mobile_robotics.test_node:main',
             'laser_scan_subscriber = mobile_robotics.laser_scan_subscriber:main',
-            'closest_object_follower_2 = mobile_robotics.closest_object_follower_2:main'
+            'closest_object_follower = mobile_robotics.closest_object_follower:main',
+            'obstacle_avoidance = mobile_robotics.obstacle_avoidance:main',      
         ],
     },
 )
