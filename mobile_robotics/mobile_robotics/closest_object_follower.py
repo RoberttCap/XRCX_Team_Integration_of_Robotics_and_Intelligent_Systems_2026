@@ -1,14 +1,18 @@
 import rclpy 
+
 from rclpy.node import Node 
+
 from sensor_msgs.msg import LaserScan 
 from geometry_msgs.msg import Twist
 
 import numpy as np
-import signal 
-import sys
+
+ 
 
 class LaserScanSub(Node): 
+
     def __init__(self): 
+
         super().__init__('laser_scan_subscriber') 
         self.sub = self.create_subscription(LaserScan, "scan", self.lidar_cb, 10) 
         
@@ -25,6 +29,7 @@ class LaserScanSub(Node):
         timer_period = .05 # 20 Hz
         self.timer = self.create_timer(timer_period, self.timer_callback) 
         self.get_logger().info("Node initialized!!!")
+     
 
     def timer_callback(self): 
         if self.received_scan:
@@ -43,8 +48,11 @@ class LaserScanSub(Node):
                 self.robot_vel.linear.x = v
                 self.robot_vel.angular.z = w
                 self.cmd_vel_pub.publish(self.robot_vel)
+
+
         else:
             self.get_logger().info("No scan received yet.")
+
             
     def get_closest_object(self):
         self.angle_min = self.lidar.angle_min
@@ -60,11 +68,15 @@ class LaserScanSub(Node):
         theta_closest = self.angle_min + closest_index * angle_increment
         theta_closest = np.arctan2(np.sin(theta_closest), np.cos(theta_closest))
         return closest_range, theta_closest
+        
     
+
     def lidar_cb(self, lidar_msg): 
         ## This function receives the ROS LaserScan message 
         self.lidar =  lidar_msg  
         self.received_scan = True
+
+ 
 
 def main(args=None): 
     rclpy.init(args=args) 
